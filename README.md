@@ -2,7 +2,7 @@
 
 # Modernizing Ghanaian Cinema: Technology, Culture, and Innovation
 
- <img src= "Cover-Image(How to Modernize the Football and Sports Industry in Africa Using Buckminster Fuller’s Ideas).png" width="450px" height="450px">
+ <img src= "image1.png" width="450px" height="450px">
 
 
 
